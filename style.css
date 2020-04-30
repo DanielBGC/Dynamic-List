@@ -29,3 +29,6 @@ li {
     margin-bottom: 5px ;
 }
 
+li:hover {
+    color: rgb(255, 0, 0);
+}
