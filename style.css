@@ -1,0 +1,31 @@
+h1 {
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 35pt;
+}
+
+label {
+    font-weight: bold;
+    font-size: 18pt;
+    display: block;
+    margin-bottom: 5px;
+}
+
+#mensagem {
+    height: 25px;
+    width: 250px;
+    font-size: 13pt;
+}
+
+#button {
+    width: 100px;
+    height: 30px;
+    font-size: 13pt;
+}
+
+li {
+    font-size: 15pt;
+    margin-bottom: 5px ;
+}
+
